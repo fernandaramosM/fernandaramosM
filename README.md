@@ -1,14 +1,14 @@
-# Hola 👋
-## Este es mi primer repositorio 🚀
+## Hola 👋
+### Este es mi primer repositorio 🚀
 
-### Sobre mí
+#### Sobre mí
 Estoy aprendiendo programación y GitHub.
 Mi nombre es Fernanda, me interesa conocer nuevas tecnologias y me dan miedo los ratones.
 
-### Objetivo
+#### Objetivo
 Compartir mis proyectos y avances.
 
-### Tecnologías
+#### Tecnologías
 - HTML
 - CSS
 - JavaScript
